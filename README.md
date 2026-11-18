@@ -9,3 +9,9 @@ Requires Node 24 or later.
 ```sh
 node --test review-routing.test.mjs
 ```
+
+## Application context
+
+![Mate workspace using fictional records](docs/mate-workspace.png)
+
+This is the larger Mate application, shown with synthetic preview data. This repository contains the routing function and its tests.
